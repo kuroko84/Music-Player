@@ -1,2 +1,3 @@
 # Music-Player
-A clone Spotify music player
+A clone Spotify music player, it's Spotifire
+ 
